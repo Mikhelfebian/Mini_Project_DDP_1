@@ -12,12 +12,10 @@ Flowchart program Pengumpulan Nilai Mata Kuliah Sistem Informasi :
 
 Output dari Beberapa fungsi diatas :
 
-1. Output dari Pilihan 1 sampai 4.
-   
-![img alt](https://github.com/Mikhelfebian/Mini_Project_DDP_1/blob/d62fe5f23717011bbca4ce299e244cd70662d37d/Screenshoot%20Output%20dan%20Conditional%20Statment.png)
 
 Penjelasan Alur Program :
 
+1. Start.
 2. Kode Akan Dijalankan pada terminal dan akan di eksekusi oleh Vscode.
 3. Muncul Program yang menampilkan beberapa opsi pilihan "menu utama", mulai dari pilihan 1 hingga pilhan 4 yang dimana tiap pilihan memiliki fungsi
    yang berbeda.
@@ -29,8 +27,14 @@ Penjelasan Alur Program :
    Ditambahakan". Program akan kembali ke Menu Utama.
 9. Jika Memilih "Pilihan 3" dengan input angka 3. Program akan menampilkan Semua data yang telah di input dari Pilihan 1 dan Pilihan 2. Program akan
     menampilkan Data Mahasiswa, Mata Kuliah, dan nilai secara bersamaan dalam satu output. Program akan kembali ke Menu Utama.
+   
+   ![img alt](https://github.com/Mikhelfebian/Mini_Project_DDP_1/blob/d62fe5f23717011bbca4ce299e244cd70662d37d/Screenshoot%20Output%20dan%20Conditional%20Statment.png)
+
 11. Jika memilih pilihan 4. Program akan mengirim pesan untuk mengentikan loop kemudian program akan berhenti dan menampilkan output "Program Selesai"
-12. Jika memilih diluar semua Pilihan yang sudah disediakan maka program akan menampilkan ouput "Pilihan Tidak Ada" dan program akan kembali ke "Menu
+
+    ![img alt](https://github.com/Mikhelfebian/Mini_Project_DDP_1/blob/f785c5422274679d28bc384f73076e2323759d47/Opsi%204.png)
+    
+13. Jika memilih diluar semua Pilihan yang sudah disediakan maka program akan menampilkan ouput "Pilihan Tidak Ada" dan program akan kembali ke "Menu
     Utama".
 2. Output jika input yang dimasukan tidak sesuai :
 
