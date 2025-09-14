@@ -1,6 +1,8 @@
 # Mini_Project_DDP_1
 Membuat Sistem berbasis CRUD
 
+Flowchart program Pengumpulan Nilai Mata Kuliah Sistem Informasi :
+
 ![image alt](https://github.com/Mikhelfebian/Mini_Project_DDP_1/blob/main/Frowchart%20Mini%20Project.jpg?raw=true)
 
 Penjelasan Alur Program :
