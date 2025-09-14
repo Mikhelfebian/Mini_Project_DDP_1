@@ -9,8 +9,15 @@ Flowchart program Pengumpulan Nilai Mata Kuliah Sistem Informasi :
 
 ![image alt](https://github.com/Mikhelfebian/Mini_Project_DDP_1/blob/232c96253679226a37eae72297333fc7326e0693/Flowchart%20Mini%20Project%20Revisi.jpg)
 
+
+Output dari Beberapa fungsi diatas :
+
+1. Output dari Pilihan 1 sampai 4.
+   
+![img alt](https://github.com/Mikhelfebian/Mini_Project_DDP_1/blob/d62fe5f23717011bbca4ce299e244cd70662d37d/Screenshoot%20Output%20dan%20Conditional%20Statment.png)
+
 Penjelasan Alur Program :
-1. Start.
+
 2. Kode Akan Dijalankan pada terminal dan akan di eksekusi oleh Vscode.
 3. Muncul Program yang menampilkan beberapa opsi pilihan "menu utama", mulai dari pilihan 1 hingga pilhan 4 yang dimana tiap pilihan memiliki fungsi
    yang berbeda.
@@ -25,13 +32,6 @@ Penjelasan Alur Program :
 11. Jika memilih pilihan 4. Program akan mengirim pesan untuk mengentikan loop kemudian program akan berhenti dan menampilkan output "Program Selesai"
 12. Jika memilih diluar semua Pilihan yang sudah disediakan maka program akan menampilkan ouput "Pilihan Tidak Ada" dan program akan kembali ke "Menu
     Utama".
-
-Output dari Beberapa fungsi diatas :
-
-1. Output dari Pilihan 1 sampai 4.
-   
-![img alt](https://github.com/Mikhelfebian/Mini_Project_DDP_1/blob/d62fe5f23717011bbca4ce299e244cd70662d37d/Screenshoot%20Output%20dan%20Conditional%20Statment.png)
-
 2. Output jika input yang dimasukan tidak sesuai :
 
    ![img alt](https://github.com/Mikhelfebian/Mini_Project_DDP_1/blob/b0cf924273ca3aafb44365c8861d32fa871a3a5a/input%20tidak%20ada.png)
