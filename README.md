@@ -3,7 +3,7 @@ Membuat Sistem berbasis CRUD
 
 Flowchart program Pengumpulan Nilai Mata Kuliah Sistem Informasi :
 
-![image alt](https://github.com/Mikhelfebian/Mini_Project_DDP_1/blob/main/Frowchart%20Mini%20Project.jpg?raw=true)
+![image alt](https://github.com/Mikhelfebian/Mini_Project_DDP_1/blob/232c96253679226a37eae72297333fc7326e0693/Flowchart%20Mini%20Project%20Revisi.jpg)
 
 Penjelasan Alur Program :
 1. Start.
