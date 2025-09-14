@@ -1,6 +1,10 @@
 # Mini_Project_DDP_1
 Membuat Sistem berbasis CRUD
 
+Nama : Mikhel Febian
+NIM : 2509116056
+Kelas : B
+
 Flowchart program Pengumpulan Nilai Mata Kuliah Sistem Informasi :
 
 ![image alt](https://github.com/Mikhelfebian/Mini_Project_DDP_1/blob/232c96253679226a37eae72297333fc7326e0693/Flowchart%20Mini%20Project%20Revisi.jpg)
