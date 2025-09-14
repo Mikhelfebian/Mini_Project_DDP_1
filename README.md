@@ -9,11 +9,7 @@ Flowchart program Pengumpulan Nilai Mata Kuliah Sistem Informasi :
 
 ![image alt](https://github.com/Mikhelfebian/Mini_Project_DDP_1/blob/232c96253679226a37eae72297333fc7326e0693/Flowchart%20Mini%20Project%20Revisi.jpg)
 
-
-Output dari Beberapa fungsi diatas :
-
-
-Penjelasan Alur Program :
+Penjelasan Output Alur Program :
 
 1. Start.
 2. Kode Akan Dijalankan pada terminal dan akan di eksekusi oleh Vscode.
