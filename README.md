@@ -6,11 +6,16 @@ Membuat Sistem berbasis CRUD
 Penjelasan Alur Program :
 1. Start.
 2. Kode Akan Dijalankan pada terminal dan akan di eksekusi oleh Vscode.
-3. Muncul Program yang menampilkan beberapa opsi pilihan menu utama, mulai dari pilihan 1 hingga pilhan 4 yang dimana tiap pilihan memiliki fungsi
+3. Muncul Program yang menampilkan beberapa opsi pilihan "menu utama", mulai dari pilihan 1 hingga pilhan 4 yang dimana tiap pilihan memiliki fungsi
    yang berbeda.
-5. Jika memilih Pilihan 1. Program akan menampilkan pilihan untuk input nama, NIM, dan angkatan yang mana tiap - tiap input memiliki tipe data yang
-   berbeda. Setelah di input sesuai dengan ketentuan maka program akan menampilkan output "Data Berhasil Ditambahkan" kemudian program akan kembali
-   ke menu utama.
-6. Jika memilih pilihan 2. Program akan menampilkan Pilihan untuk input nomor urutan mahasiswa yang sudah di input pada pilihan 1, program juga
-   meminta untuk menginput Nama Mata Kuliah, Nilai Mata dan program akan mengeluarkan output "Data Berhasil Ditambahakan". Program akan kembali ke
-   Menu Utama.
+5. Jika memilih "Pilihan 1" dengan input angka 1. Program akan menampilkan pilihan untuk input nama, NIM, dan angkatan yang mana tiap - tiap input
+   memiliki tipe data yang berbeda. Setelah di input sesuai dengan ketentuan maka program akan menampilkan output "Data Berhasil Ditambahkan"
+   kemudian program akan kembali ke menu utama.
+7. Jika memilih "pilihan 2" Dengan input angka 2. Program akan menampilkan Pilihan untuk input nomor urutan mahasiswa yang sudah di input pada
+   pilihan 1, setelah itu program akan meminta untuk menginput Nama Mata Kuliah, Nilai Mata dan program akan mengeluarkan output "Data Berhasil
+   Ditambahakan". Program akan kembali ke Menu Utama.
+9. Jika Memilih "Pilihan 3" dengan input angka 3. Program akan menampilkan Semua data yang telah di input dari Pilihan 1 dan Pilihan 2. Program akan
+    menampilkan Data Mahasiswa, Mata Kuliah, dan nilai secara bersamaan dalam satu output. Program akan kembali ke Menu Utama.
+11. Jika memilih pilihan 4. Program akan mengirim pesan untuk mengentikan loop kemudian program akan berhenti dan menampilkan output "Program Selesai"
+12. Jika memilih diluar semua Pilihan yang sudah disediakan maka program akan menampilkan ouput "Pilihan Tidak Ada" dan program akan kembali ke "Menu
+    Utama".
