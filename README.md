@@ -25,4 +25,5 @@ Penjelasan Alur Program :
 Output dari Beberapa fungsi diatas :
 
 1. Output Keseluruhan.
-   ![img alt](https://github.com/Mikhelfebian/Mini_Project_DDP_1/blob/d62fe5f23717011bbca4ce299e244cd70662d37d/Screenshoot%20Output%20dan%20Conditional%20Statment.png)
+   
+![img alt](https://github.com/Mikhelfebian/Mini_Project_DDP_1/blob/d62fe5f23717011bbca4ce299e244cd70662d37d/Screenshoot%20Output%20dan%20Conditional%20Statment.png)
