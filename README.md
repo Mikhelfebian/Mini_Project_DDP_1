@@ -21,3 +21,8 @@ Penjelasan Alur Program :
 11. Jika memilih pilihan 4. Program akan mengirim pesan untuk mengentikan loop kemudian program akan berhenti dan menampilkan output "Program Selesai"
 12. Jika memilih diluar semua Pilihan yang sudah disediakan maka program akan menampilkan ouput "Pilihan Tidak Ada" dan program akan kembali ke "Menu
     Utama".
+
+Output dari Beberapa fungsi diatas :
+
+1. Output Keseluruhan.
+   ![img alt]()
