@@ -24,6 +24,10 @@ Penjelasan Alur Program :
 
 Output dari Beberapa fungsi diatas :
 
-1. Output Keseluruhan.
+1. Output dari Pilihan 1 sampai 4.
    
 ![img alt](https://github.com/Mikhelfebian/Mini_Project_DDP_1/blob/d62fe5f23717011bbca4ce299e244cd70662d37d/Screenshoot%20Output%20dan%20Conditional%20Statment.png)
+
+2. Output jika input yang dimasukan tidak sesuai :
+
+   ![img alt](https://github.com/Mikhelfebian/Mini_Project_DDP_1/blob/b0cf924273ca3aafb44365c8861d32fa871a3a5a/input%20tidak%20ada.png)
